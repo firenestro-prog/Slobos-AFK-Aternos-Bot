@@ -8,7 +8,7 @@
   "server": {
     "ip": "OrigamiSMP.aternos.me",
     "port": 15149,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
